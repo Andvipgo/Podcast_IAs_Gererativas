@@ -9,11 +9,11 @@
       🎧 Assista ao 1º Episódio do Podcast
    </a>
    <p align="center"> 
-      <a>
       <audio controls>
-         <audio src="assets/Podcast%20Vis%C3%A3o%20Analitica%20Prim%20episodio.mp3" type="audio/mpeg">         
+         <source src="audio/Podcast%20Vis%C3%A3o%20Analitica%20Prim%20episodio.mp3" type="audio/mpeg">
+         Seu navegador não suporta o elemento de áudio.
       </audio>
-      </a>
+
    </p>
    Preview do podcast
 </p>
