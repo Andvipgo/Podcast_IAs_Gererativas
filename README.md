@@ -1,3 +1,20 @@
+      
+</p>
+
+<p align="center">
+   <img src="assets/capa%20podcast.jpg" alt="Cover - Capa Podcast" width="400"/>
+</p>
+<p align="center">
+   <a href="https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F539CD00AE7238F6D%21s4bf6327c2c9b4a7fbdee6976c81fc440%3Fithint%3Dvideo%26migratedtospo%3Dtrue&sw=bypassConfig&cid=539CD00AE7238F6D&id=539CD00AE7238F6D%21s4bf6327c2c9b4a7fbdee6976c81fc440&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvYy81MzljZDAwYWU3MjM4ZjZkL0VYd3k5a3ViTEg5S3ZlNXBkc2dmeEVBQnd0bUg0dFlaaXJBQWFpeGxkVVlIZWc&v=photos" target="_blank">
+      🎧 Assista ao 1º Episódio do Podcast
+   </a>
+
+   Preview do podcast
+</p>
+
+
+
+
 # Criando podcast utilizando IAs generativas  
 ### Dio/Microsoft50Anos - Prompts Inteligentes  
 
