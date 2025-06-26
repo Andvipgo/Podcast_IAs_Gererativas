@@ -5,6 +5,7 @@
 ## ✨ Introdução  
 Este projeto demonstra como é possível criar um podcast do zero utilizando ferramentas de Inteligência Artificial Generativa. A proposta nasceu como parte de um desafio da plataforma **DIO em parceria com a Microsoft**, celebrando 50 anos de inovação tecnológica. Ao longo do projeto, são exploradas aplicações práticas de **Ciência de Dados, Análise de Dados e IA**, resultando em um conteúdo dinâmico e acessível.  
 
+O podcast gerado, intitulado **“Visão Analítica – Um olhar através dos Dados”**, aborda de forma objetiva o papel da análise de dados na transformação de negócios e decisões. Todo o processo criativo — da geração do roteiro à publicação — foram realizados com o apoio de IAs generativas.
 
 ---
 
