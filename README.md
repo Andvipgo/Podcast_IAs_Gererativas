@@ -1,6 +1,7 @@
 # Criando podcast utilizando IAs generativas  
 ### Dio/Microsoft50Anos - Prompts Inteligentes  
 
+
 ## ✨ Introdução  
 Este projeto demonstra como é possível criar um podcast do zero utilizando ferramentas de Inteligência Artificial Generativa. A proposta nasceu como parte de um desafio da plataforma **DIO em parceria com a Microsoft**, celebrando 50 anos de inovação tecnológica. Ao longo do projeto, são exploradas aplicações práticas de **Ciência de Dados, Análise de Dados e IA**, resultando em um conteúdo dinâmico e acessível.  
 
